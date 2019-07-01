@@ -1,5 +1,13 @@
 # DATA VIZ - OLYMPICS
 
+## Project made by :
+
+- @marion-ott
+- @Webfaker
+- @WebbyStalker
+- Manon
+- Romain
+
 # Follow these steps to install the project 
 
 #### Install required dependencies
